@@ -10,7 +10,7 @@ const Signup = () => {
   return (
     <div>
         <br />
-        <Typography variant='h3'>Signup form</Typography>
+        <Typography variant='h3'>Blog Form</Typography>
         <br />
         <TextField variant='outlined' label="Blog Name" name='name' onChange={inputHandler}/>
         <br /><br />
