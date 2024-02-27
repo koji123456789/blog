@@ -7,7 +7,7 @@ const Navbar = () => {
     <div sx={{flexGrow:1}}  >
         <AppBar position='static'>
             <Toolbar>
-                <Typography sx={{flexGrow:1}} align='left' variant='h6'>App</Typography>
+                <Typography sx={{flexGrow:1}} align='left' variant='h6'>BLOG</Typography>
                     <Button   >
                     <Link to='/s' style={{color:'white'}}>ADD</Link>
                     </Button>
